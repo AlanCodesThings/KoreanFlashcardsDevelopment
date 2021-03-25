@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.iOS\\KoreanFlashcardsDevelopment.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.iOS\\KoreanFlashcardsDevelopment.iOS.csproj",
       "projectName": "KoreanFlashcardsDevelopment.iOS",
-      "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.iOS\\KoreanFlashcardsDevelopment.iOS.csproj",
+      "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.iOS\\KoreanFlashcardsDevelopment.iOS.csproj",
       "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
-              "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj"
+            "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
+              "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj"
             }
           }
         }

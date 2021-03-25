@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
       "projectName": "KoreanFlashcardsDevelopment.Android",
-      "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
+      "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
       "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\obj\\",
+      "outputPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
-              "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj"
+            "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
+              "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj"
             }
           }
         }

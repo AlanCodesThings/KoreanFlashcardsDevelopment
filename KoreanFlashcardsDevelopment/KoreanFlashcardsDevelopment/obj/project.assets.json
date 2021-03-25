@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
+      "projectUniqueName": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
       "projectName": "KoreanFlashcardsDevelopment",
-      "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
+      "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
       "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\obj\\",
+      "outputPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

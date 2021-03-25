@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("KoreanFlashcardsDevelopment.MainPage.xaml", "MainPage.xaml", typeof(global::KoreanFlashcardsDevelopment.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("KoreanFlashcardsDevelopment.MainPage.xaml", "MainPage.xaml", typeof(global::Korean_Flashcards.MainPage))]
 
-namespace KoreanFlashcardsDevelopment {
+namespace Korean_Flashcards {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]

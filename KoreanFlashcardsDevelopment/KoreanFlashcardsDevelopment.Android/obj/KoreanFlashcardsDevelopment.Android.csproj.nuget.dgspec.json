@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj": {}
+    "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj": {
+    "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
         "projectName": "KoreanFlashcardsDevelopment.Android",
-        "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
+        "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\KoreanFlashcardsDevelopment.Android.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\obj\\",
+        "outputPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
-                "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj"
+              "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
+                "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
+    "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
+        "projectUniqueName": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
         "projectName": "KoreanFlashcardsDevelopment",
-        "projectPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
+        "projectPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alan\\source\\repos\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\obj\\",
+        "outputPath": "C:\\Users\\Alan\\Documents\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\KoreanFlashcardsDevelopment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
